@@ -1,0 +1,107 @@
+{
+  "goon_adult": {
+    "name": "The GOON (adult)",
+    "ratio": "1080:1440",
+    "prompt": "Full-body character reference photograph of a Muppet-style puppet standing facing camera against a plain neutral grey studio backdrop. Shaggy matted moss-green fur, enormous bloodshot ping-pong-ball eyes with heavy dark under-circles, a greasy orange yarn cowlick sticking straight up, a patchy felt neckbeard, a stained white tank top stretched over a soft round belly, plaid flannel pajama pants, and a black gaming headset with one cracked ear cup. Foam-and-felt construction with visible fabric weave and hand stitching. Practical puppet photographed on a physical set, even soft studio lighting, sharp focus, full figure in frame, no props, no background scenery.",
+    "shots": [
+      "shot_03",
+      "shot_04",
+      "shot_05",
+      "shot_07",
+      "shot_08",
+      "shot_09",
+      "shot_10",
+      "shot_11",
+      "shot_12",
+      "shot_13",
+      "shot_15",
+      "shot_16",
+      "shot_17",
+      "shot_18",
+      "shot_19",
+      "shot_20",
+      "shot_21",
+      "shot_22",
+      "shot_23",
+      "shot_28",
+      "shot_29",
+      "shot_30",
+      "shot_31",
+      "shot_32",
+      "shot_37",
+      "shot_38",
+      "shot_43",
+      "shot_48"
+    ]
+  },
+  "goon_child": {
+    "name": "The GOON (child, 1990s)",
+    "ratio": "1080:1440",
+    "prompt": "Full-body character reference photograph of a small child Muppet-style puppet standing facing camera against a plain neutral grey studio backdrop. Shaggy matted moss-green fur, enormous bloodshot ping-pong-ball eyes with dark under-circles, a greasy orange yarn cowlick, smooth clean chin with no beard, plaid flannel pajama pants, no headset, small and round proportions. Foam-and-felt construction with visible fabric weave and hand stitching. Practical puppet photographed on a physical set, even soft studio lighting, sharp focus, full figure in frame, no props, no background scenery.",
+    "shots": [
+      "shot_01",
+      "intro_B2"
+    ]
+  },
+  "mom": {
+    "name": "MOM",
+    "ratio": "1080:1440",
+    "prompt": "Full-body character reference photograph of a Muppet-style puppet standing facing camera against a plain neutral grey studio backdrop. Tight grey curly yarn hair, warm pale felt face with soft round cheeks, reading glasses on a beaded chain around her neck, a pink floral housecoat, sensible slippers, hands on hips. Foam-and-felt construction with visible fabric weave and hand stitching. Practical puppet photographed on a physical set, even soft studio lighting, sharp focus, full figure in frame, no props, no background scenery.",
+    "shots": [
+      "shot_02",
+      "shot_13",
+      "shot_33",
+      "shot_34"
+    ]
+  },
+  "girlfriend": {
+    "name": "Girlfriend",
+    "ratio": "1080:1440",
+    "prompt": "Full-body character reference photograph of a Muppet-style puppet standing facing camera against a plain neutral grey studio backdrop. Smooth lavender felt fur, a sharp black yarn bob haircut, large calm expressive eyes with long lashes, a simple dark green jacket over a plain top, arms at her sides. Foam-and-felt construction with visible fabric weave and hand stitching. Practical puppet photographed on a physical set, even soft studio lighting, sharp focus, full figure in frame, no props, no background scenery.",
+    "shots": [
+      "shot_07"
+    ]
+  },
+  "streamer_red": {
+    "name": "Streamer puppet - red dress (shot 08)",
+    "ratio": "1080:1440",
+    "prompt": "Waist-up character reference photograph of a Muppet-style puppet facing camera against a plain neutral grey studio backdrop. Plain white felt skin, very busty, long wavy strawberry-blonde wool hair, large friendly eyes with long lashes, a simple red bikini top and bottom, waving one hand cheerfully. Foam-and-felt construction with visible fabric weave and hand stitching. Practical puppet photographed on a physical set, even soft studio lighting, sharp focus, no props, no background scenery.",
+    "shots": [
+      "shot_08"
+    ]
+  },
+  "streamer_cap": {
+    "name": "Streamer puppet - ball cap and beard (shots 11, 15)",
+    "ratio": "1080:1440",
+    "prompt": "Waist-up character reference photograph of a Muppet-style puppet facing camera against a plain neutral grey studio backdrop. Plain white felt skin, a backwards navy baseball cap, a short brown felt beard, a trimmed brown moustache, small round eyes, a plush black hoodie, a headset microphone. Foam-and-felt construction with visible fabric weave and hand stitching. Practical puppet photographed on a physical set, even soft studio lighting, sharp focus, no props, no background scenery.",
+    "shots": [
+      "shot_11",
+      "shot_15"
+    ]
+  },
+  "streamer_calm": {
+    "name": "Streamer puppet - serene (shots 11, 14)",
+    "ratio": "1080:1440",
+    "prompt": "Waist-up character reference photograph of a female Muppet-style puppet facing camera against a plain neutral grey studio backdrop. Plain white felt skin, tidy long dark brown wool hair, tired half-lidded relaxed eyes, open mouth, a soft mint green sweater, large chest, a slim headset microphone, hands folded. Foam-and-felt construction with visible fabric weave and hand stitching. Practical puppet photographed on a physical set, even soft studio lighting, sharp focus, no props, no background scenery.",
+    "shots": [
+      "shot_11",
+      "shot_14"
+    ]
+  },
+  "streamer_blue": {
+    "name": "VTuber puppet - blue pigtails (shot 17)",
+    "ratio": "1080:1440",
+    "prompt": "Waist-up character reference photograph of two Muppet-style puppets facing camera side by side against a plain neutral grey studio backdrop. Left puppet has pale skin-toned felt, very busty, small nose, pastel blue hair in a soft shoulder-length cut, large endowed chest, and a black-and-white dairy cow onesie with a hood. Right puppet has pale skin-toned felt, small nose, large endowed chest, long straight black hair, and a pink top. Both have oversized glossy round anime-style eyes with large highlights and small shy smiles. Foam-and-felt construction with visible fabric weave and hand stitching. Practical puppets photographed on a physical set, even soft studio lighting, sharp focus, no props, no background scenery.",
+    "shots": [
+      "shot_17"
+    ]
+  },
+  "streamer_mint": {
+    "name": "VTuber puppet - mint bob (shot 18)",
+    "ratio": "1080:1440",
+    "prompt": "Waist-up character reference photograph of a Muppet-style puppet facing camera against a plain neutral grey studio backdrop. Plain white felt skin, long black yarn hair, oversized glossy round eyes, a wide delighted open-mouthed smile, a sailor moon schoolgirl outfit, a desk microphone in front of her. Foam-and-felt construction with visible fabric weave and hand stitching. Practical puppet photographed on a physical set, even soft studio lighting, sharp focus, no props, no background scenery.",
+    "shots": [
+      "shot_18"
+    ]
+  }
+}
