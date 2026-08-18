@@ -9,55 +9,37 @@
     "id": "intro_B2",
     "title": "Window slip (bedroom)",
     "prompt": "Continuous FPV drone shot, single unbroken take. The camera drops fast from rooftop height into a quiet suburban street, accelerates low across a front lawn toward a modest single-story house, rises to an open bedroom window with curtains billowing outward, slips through the gap, and decelerates hard to a stop facing a small foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick and plaid pajama pants, sitting cross-legged on the carpet of a cramped 1990s bedroom with wood-paneled walls, race car bedsheets and a boxy tube television, hunched over a grey handheld console. Practical puppetry on physical miniature and interior sets, visible fabric weave and stitching, 35mm film grain. Camera: 18mm ultra-wide FPV drone, fast approach into hard deceleration. Lighting: cold suburban night into warm lamp-lit bedroom interior. Audio: rushing wind, curtain snap, sudden interior quiet, frantic button clicks. No readable text, straight verticals, stable puppet proportions.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvOTlkNzJhYjQtMzkwNS00NDE2LTg4OTUtZjZlZmYwMWM1YTM5L2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMzLCJleHAiOjE3ODUzODg5MzMsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ.DDeKF5VR4XK79j5VsowJR5SRzC5ySxCB1OrQ9W7_p6M"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_01",
     "title": "\"Tetris block that wouldn't turn right / Threw my Game Boy through the window\"",
     "prompt": "A small child foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick and plaid pajama pants sits cross-legged on the carpet of a cramped 1990s bedroom with wood-paneled walls and a boxy tube television, hunched over a grey handheld console mashing buttons in furious jabs, then hurls it overhand out of frame as glass shatters offscreen. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 40mm, slow dolly in from wide to medium. Lighting: warm lamp key, cold moonlight through the broken window. Audio: frantic button clicks, a distant shatter, room tone. No readable text, stable puppet proportions, no morphing hands.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvOTlkNzJhYjQtMzkwNS00NDE2LTg4OTUtZjZlZmYwMWM1YTM5L2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMzLCJleHAiOjE3ODUzODg5MzMsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ.DDeKF5VR4XK79j5VsowJR5SRzC5ySxCB1OrQ9W7_p6M"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_02",
     "title": "\"Mom said ('That's enough!')\"",
     "prompt": "MOM, a foam-and-felt Muppet puppet with tight grey curly yarn hair, pink floral housecoat and reading glasses on a beaded chain, leans into a doorway with one hand on her hip and the other jabbing a finger downward, mouth wide open mid-shout. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 28mm, locked-off low angle from the base of the stairs. Lighting: hard warm kitchen spill behind her, deep shadow below, magenta bounce on the lower steps. Audio: muffled shouting, stair creak, house hum. No readable text, stable geometry, no morphing face.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvZDAzODZkNzctNTE2NC00Nzk3LTg1M2QtYjdmM2I5ZGRiOWI1L2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTM0LCJleHAiOjE3ODUzODg5MzQsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ.dIUI7JexuljnEcsmH5NPTKh-823quaTf9VOWuEnJcnE"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_03",
     "title": "\"Thirty years later and I'm still well-regarded (HAH!)\"",
     "prompt": "The GOON, a foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top, plaid pajama pants and a cracked black headset, sits enthroned in a torn office chair at the base of the same wooden staircase with arms crossed, then turns his head slowly to camera and grins with total unearned confidence. Cluttered wood-paneled basement, exposed pipes, crushed energy drink cans, magenta and cyan LED strips. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 28mm, slow dolly in, matched low angle. Lighting: monitor key from frame left, magenta rim. Audio: low fan whine, distant TV. No readable text, stable proportions.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_04",
     "title": "\"When the lag kicks in and my character freezes\"",
     "prompt": "The GOON, a foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top and a cracked black headset, sits frozen at a triple-monitor desk as the game stutters and locks, his fur bristling, eyes widening until they nearly leave the sockets, mouth stretching into a silent scream. Cluttered wood-paneled basement, exposed pipes, magenta and cyan LED strips. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 50mm, slow push-in from screen to medium. Lighting: cyan screen glow shifting to hard red uplight. Audio: connection drop tone, sudden silence, one held breath. No readable text, stable eyes, no melting features.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_05",
     "title": "\"Keyboard smashed to bits, mouse thrown across the room\"",
     "prompt": "The GOON, a foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top, plaid pajama pants and a cracked black headset, raises a mechanical keyboard overhead in both felt hands and slams it onto a cluttered desk as keycaps launch upward and scatter in slow arcs. Cluttered wood-paneled basement, exposed pipes, crushed energy drink cans, magenta and cyan LED strips. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 35mm, locked-off low wide across the desk. Lighting: hard magenta key, deep falloff. Audio: plastic crack, scattering keycaps, clattering cord. No readable text, no extra limbs.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_06",
@@ -69,162 +51,103 @@
     "id": "shot_07",
     "title": "\"My girlfriend walked in while I yelled at the screen\"",
     "prompt": "The GOON, a foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top and a cracked black headset, screams at his monitor in the foreground with both fists shaking beside his head while behind him in soft focus a lavender-furred Muppet puppet with a black yarn bob drags a suitcase across the room, pauses, and exits through a door. He never turns around. Cluttered wood-paneled basement, magenta and cyan LED strips. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 40mm, locked-off medium wide, shallow focus. Lighting: cold monitor key on him, warm doorway behind her. Audio: overlapping shouting, suitcase wheels, a door closing. No readable text.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg",
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvM2Q5NmQ2MTMtOGI3Yy00MDcyLWEzOTItM2JkOWQ4ZDQwMTVkL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTM2LCJleHAiOjE3ODUzODg5MzYsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ.j6xqDLleHt-eWzrGRcZ1Vjwqxwf_L1eKiXprXWXPJeE"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_08",
     "title": "\"I was too busy watching [streamer]\"",
     "prompt": "The GOON, a foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top and a cracked black headset, leans far forward at a monitor with both felt hands gripping the desk edge and his jaw hanging open, tongue lolling, while on screen a hot-pink foam-and-felt Muppet streamer puppet with enormous eyelashes waves into a ring light. Cluttered wood-paneled basement, magenta and cyan LED strips. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 65mm, slow push-in to close-up. Lighting: hot pink screen glow key, cold basement fill. Audio: muffled cheerful chatter, chair creak. No readable text, stable eyes.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg",
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvM2Y5YTdkNGItZTFkYy00Mjg3LThlMWEtOTlkY2VkZDkyZmFkL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTM3LCJleHAiOjE3ODUzODg5MzcsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._Gd7xhFq81ceOzE3mFez8xe_znKy6TxMxqIhCTxOMhE"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_09",
     "title": "\"(RAGE QUIT!) the controller is deceased!\" *(Chorus 1)*",
     "prompt": "The GOON, a foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top, plaid pajama pants and a cracked black headset, stands on his office chair holding a controller overhead in both trembling felt hands, then snaps it clean in half as shards and springs erupt outward. Cluttered wood-paneled basement, exposed pipes, crushed energy drink cans, magenta and cyan LED strips. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 28mm, slow gimbal orbit at low angle. Lighting: hard red rim, heavy backlit haze. Audio: plastic snap, scattering debris, a roar. No readable text, no extra limbs.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_10",
     "title": "\"Got myself a headset, joined a random squad\"",
     "prompt": "The GOON, a foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top, plaid pajama pants and a cracked black headset, settles calmly into a torn office chair for one beat, then his ears flatten, his neckbeard bristles, and he lurches at the microphone with mouth wide and both fists slamming the desk. Cluttered wood-paneled basement, exposed pipes, magenta and cyan LED strips. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 50mm, slow push-in to low-angle close-up. Lighting: cyan key shifting to hard red uplight. Audio: headset click, crackling voice chat, a desk slam. No readable text, stable eyes.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_11",
     "title": "\"My rage makes [streamers] look like they're on sedatives\"",
     "prompt": "A wall of small monitors in a cluttered wood-paneled basement with exposed pipes and magenta and cyan LED strips, each screen showing a pastel foam-and-felt Muppet streamer puppet sitting serenely in soft ring-light glow, sipping tea and blinking slowly, one drifting to sleep, while in front of them the GOON \u2014 foam-and-felt Muppet puppet, matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top, cracked black headset \u2014 throws a wild haymaker at a punching bag that swings back and knocks him sideways. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 35mm, smooth lateral truck left to right. Lighting: soft pastel screen glow against harsh red practical. Audio: gentle murmuring, one heavy thud. No readable text, no duplicate faces.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg",
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvZjNkNWFjYmQtNGQ3Yy00MTQ0LWIxY2QtM2UzMWYxZWU3Y2RiL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTM3LCJleHAiOjE3ODUzODg5MzcsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ.h8Cs3S_iF0WvYlJH7Bqujrctwf7mnq3Wb-X2w10GbMA",
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvOThiYjA3ZWMtN2ZjYy00MDFiLTk0MzEtMzg4M2Y3ZDA3OWQ5L2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTM5LCJleHAiOjE3ODUzODg5MzksImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ.T3n9PvPj5y2JVYPl1OC2GzXqli-2LcglAtk_P9H9LOs"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_12",
     "title": "\"Spent my rent money on the sweetest gaming chair\"",
     "prompt": "An absurd oversized gaming throne on a rotating platform in a cluttered wood-paneled basement, bristling with nine cup holders bolted to every armrest and headrest each holding a different energy drink can, with the GOON \u2014 foam-and-felt Muppet puppet, matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top, plaid pajama pants \u2014 reclining with both arms spread wide, grinning at the ceiling pipes. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 50mm, smooth gimbal orbit. Lighting: rainbow LED cycle through seven colors, backlit fog, glossy commercial key. Audio: a swelling synth sting, servo hum. No readable text, no warped logos.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_13",
     "title": "\"My mom says 'Get a job!' but I just laugh it off\"",
     "prompt": "MOM, a foam-and-felt Muppet puppet with tight grey curly yarn hair, pink floral housecoat and reading glasses on a beaded chain, stands at the top of a wooden basement staircase shouting downward with a stack of red-stamped envelopes, while below at the desk the GOON \u2014 foam-and-felt Muppet puppet, matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top, cracked black headset \u2014 throws his head back laughing then snaps flat-faced back to the monitor. Cluttered wood-paneled basement, magenta and cyan LED strips. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 35mm, slow crane down the staircase. Lighting: warm kitchen spill above, cold monitor key below. Audio: shouting, paper rustle, one bark of laughter. No readable text.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg",
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvZDAzODZkNzctNTE2NC00Nzk3LTg1M2QtYjdmM2I5ZGRiOWI1L2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTM0LCJleHAiOjE3ODUzODg5MzQsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ.dIUI7JexuljnEcsmH5NPTKh-823quaTf9VOWuEnJcnE"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_14",
     "title": "\"When I lose it, the whole street pays the price\"",
     "prompt": "A modest suburban house at night with one basement window glowing radioactive magenta as every window on the block lights up at once, car alarms flash in sequence down the street, a mailbox topples, a flock of foam-and-felt pigeon puppets explodes off a telephone wire, and Muppet neighbor puppets in bathrobes stumble onto their lawns clutching their ears. Practical puppetry on a physical miniature set, visible fabric weave and stitching, 35mm film grain. Camera: 24mm, slow crane up and back to high wide. Lighting: cool blue night ambient, warm sodium streetlights, magenta window bloom. Audio: layered car alarms, wingbeats, distant roar. No readable text, straight verticals.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvOThiYjA3ZWMtN2ZjYy00MDFiLTk0MzEtMzg4M2Y3ZDA3OWQ5L2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTM5LCJleHAiOjE3ODUzODg5MzksImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ.T3n9PvPj5y2JVYPl1OC2GzXqli-2LcglAtk_P9H9LOs"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_15",
     "title": "\"I've broken more controllers than [streamer]'s dreams\"",
     "prompt": "A dim basement storage room with wood-paneled walls and exposed pipes lit by a single swinging bare bulb, hundreds of shattered controllers, cracked keyboards and snapped headsets mounted on the walls and piled in mountains on the floor, some pinned like museum specimens, with the GOON \u2014 foam-and-felt Muppet puppet, matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top, plaid pajama pants \u2014 standing at the far end in solemn silhouette, hands clasped. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 40mm, slow reverent dolly in. Lighting: single hard swinging source, deep shadows. Audio: bulb chain tick, low hum, faint plastic settling. No readable text.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg",
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvZjNkNWFjYmQtNGQ3Yy00MTQ0LWIxY2QtM2UzMWYxZWU3Y2RiL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTM3LCJleHAiOjE3ODUzODg5MzcsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ.h8Cs3S_iF0WvYlJH7Bqujrctwf7mnq3Wb-X2w10GbMA"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_16",
     "title": "\"(RAGE QUIT!) My bed has no sheets and it's growing mushrooms!\" *(Chorus 2)*",
     "prompt": "The GOON, a foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top, plaid pajama pants and a cracked black headset, snaps a keyboard over his knee as keycaps rain down, standing beside a bare stained mattress on the floor where pale mushrooms grow from a damp patch near the pillow. Cluttered wood-paneled basement, exposed pipes, crushed energy drink cans, magenta and cyan LED strips, visible green haze shimmering in the air. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 35mm, slow pan right from him to the mattress. Lighting: sickly green-tinged practical, magenta rim. Audio: sharp snap, a wet drip, low hum. No readable text.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_17",
     "title": "\"Dropping dono's on girls with anime perfection\"",
     "prompt": "The GOON, a foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top and a cracked black headset, sits alone at a monitor-lit desk as his felt hand hovers trembling over a glowing donation button and presses it, golden confetti bursting across the screen, while on the monitor a foam-and-felt Muppet streamer puppet with pastel blue yarn pigtails and oversized glossy eyes waves from a soft pink ring-lit studio. Cluttered wood-paneled basement, magenta and cyan LED strips. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 50mm, slow gimbal arc to profile. Lighting: warm pink screen key against cold basement shadow. Audio: a bright notification chime, muffled squeal. No readable text.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg",
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvYTViMjg2ZDAtZDIxMi00NmY0LTljMGYtOTlkNGMxODQ2YjgxL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTQwLCJleHAiOjE3ODUzODg5NDAsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ.Mvgra27h9kdxlI-8vxq8IDark-osOe59PWhx4UMatAw"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_18",
     "title": "\"My bank account's empty but my heart feels so full\"",
     "prompt": "The GOON, a foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top and a cracked black headset, holds a cracked phone showing an empty balance, then goes rigid, clutches both felt hands to his chest and lets a single tear roll down through his fur as his eyes fill with wobbling light, while on the monitor beside him a pastel Muppet streamer puppet leans toward a microphone with a delighted expression. Cluttered wood-paneled basement, magenta and cyan LED strips. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 65mm, slow tilt up from phone to medium close-up. Lighting: soft warm screen glow, cold ambient fill. Audio: a soft chime, one sniff, room tone. No readable text, stable eyes.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg",
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvZDNkMDQ2YzMtZDVkYi00NmU0LTg5NDAtN2M2NmE0NGJjY2ViL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTQwLCJleHAiOjE3ODUzODg5NDAsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ.kUrHCe8gQtjO8locqj3URl9U-oVFlXlkYuzzRZjvc6s"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_19",
     "title": "\"They don't know I exist beyond the simp in the chat\"",
     "prompt": "The GOON, a foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top, plaid pajama pants and a cracked black headset, sits alone at his desk in a vast dark basement still mashing a glowing donation button as small bursts of golden confetti flicker on screen, shrinking to a tiny lit figure in the frame. Cluttered wood-paneled basement, exposed pipes, crushed energy drink cans, magenta and cyan LED strips. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 35mm, slow dolly out to wide. Lighting: single monitor key swallowed by darkness. Audio: repeating chimes thinning into silence. No readable text, no duplicate figures.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_20",
     "title": "\"(RAGE QUIT!) My eyes are bloodshot red!\" *(Chorus 3)*",
     "prompt": "The GOON, a foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top, plaid pajama pants and a cracked black headset half off his head, lies collapsed face-up and motionless on a bare sheetless mattress, fur flattened, cowlick bent sideways, one felt arm flopping off the edge. Cluttered wood-paneled basement, exposed pipes, crushed energy drink cans ringing the mattress, magenta and cyan LED strips. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 28mm, slow crane up to overhead. Lighting: cold overhead key, magenta floor bounce. Audio: slow breathing, distant pipe knock. No readable text, stable eyes.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_21",
     "title": "\"My chair reeks of sweat!\"",
     "prompt": "The GOON, a foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard and a stained white tank top, slumps in a torn office chair with a grimy towel draped across his lap and his cracked black headset askew, staring blankly at a defeat screen while green haze shimmers upward from the cushion and a fly puppet circles once and drops out of frame. Cluttered wood-paneled basement, exposed pipes, magenta and cyan LED strips. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 50mm, slow push-in from hair to medium. Lighting: sickly green-tinged practical, cold monitor fill. Audio: a lazy fly buzz, chair creak. No readable text, no morphing face.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_22",
     "title": "\"My skin's turned gamer pale! My nails are dragon scales!\"",
     "prompt": "The GOON, a foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top, plaid pajama pants and a cracked black headset, raises one felt hand into a thin shaft of daylight from a grimy ground-level window \u2014 fur bleached bone-pale and translucent, fingernails long, thick, yellowed and curling like claws \u2014 then recoils sharply and shrinks back into shadow. Cluttered wood-paneled basement, exposed pipes, magenta and cyan LED strips, dust motes in the beam. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 40mm, slow tilt up from hand to low-angle medium. Lighting: hard single daylight shaft against deep magenta shadow. Audio: a hiss, distant birdsong. No readable text, stable hands, no extra fingers.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_23",
     "title": "\"I lay there with my figurines\"",
     "prompt": "The GOON, a foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top and plaid pajama pants, lies spread-eagle and motionless on a bare sheetless mattress staring straight up at ceiling pipes with a vacant thousand-yard expression, dozens of small figurines arranged in neat rings around him all facing inward, painted eyes catching the light, as one slowly tips over. Cluttered wood-paneled basement, exposed pipes, magenta and cyan LED strips, drifting dust. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 28mm, very slow crane down to overhead. Lighting: still cold overhead key, magenta floor bounce. Audio: silence, one small plastic tick. No readable text.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_24",
@@ -254,64 +177,43 @@
     "id": "shot_28",
     "title": "Keyboard face *(character)*",
     "prompt": "The GOON, a foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top and a cracked black headset, lies face-down asleep on a mechanical keyboard, slowly lifts his head to reveal a grid of keycap impressions pressed into his felt cheek, blinks once, and lowers his head back down. Cluttered wood-paneled basement, magenta and cyan LED strips. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 65mm, locked-off close-up. Lighting: cold monitor key, magenta rim. Audio: a soft snore, one keyboard clack. No readable text, stable face.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_29",
     "title": "Mechanical eating *(character)*",
     "prompt": "The GOON, a foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top and a cracked black headset, raises a cold pizza slice to his mouth and chews mechanically without once shifting his gaze from the monitor, cheese hanging, eyes never blinking. Cluttered wood-paneled basement, exposed pipes, magenta and cyan LED strips. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 50mm, slow push-in to profile close-up. Lighting: cold monitor key on his face, warm nothing else. Audio: wet chewing, distant game audio. No readable text, stable jaw movement.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_30",
     "title": "The chug *(character)*",
     "prompt": "The GOON, a foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard and a stained white tank top, tips an oversized energy drink can vertically over his open mouth in slow motion, throat working, liquid overflowing down his chin and soaking into the fur of his chest. Cluttered wood-paneled basement, magenta and cyan LED strips. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 40mm, slow low-angle tilt up. Lighting: hard cyan backlight through the pouring liquid, magenta rim. Audio: heavy gulping, liquid splash, a gasp. No readable text, stable proportions.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_31",
     "title": "Victory dance for nobody *(character)*",
     "prompt": "The GOON, a foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top, plaid pajama pants and a cracked black headset, performs an elaborate celebratory dance alone in an empty cluttered basement, arms pumping, hips swinging, then stops abruptly and looks around at nobody. Exposed pipes, crushed energy drink cans, magenta and cyan LED strips. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 35mm, locked-off medium wide. Lighting: full RGB strip cycle, monitor fill. Audio: triumphant game jingle, then silence. No readable text, no extra limbs.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_32",
     "title": "Reflection in a dark monitor *(character)*",
     "prompt": "The GOON, a foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard and a stained white tank top, sits motionless facing a powered-off monitor, staring at his own dim reflection in the black glass, then slowly reaches out and touches the screen with one felt finger. Cluttered wood-paneled basement, exposed pipes, magenta and cyan LED strips. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 50mm, slow dolly in over his shoulder. Lighting: magenta strip only, no screen light. Audio: deep room tone, one soft tap. No readable text, stable reflection geometry.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_33",
     "title": "The plate at the top of the stairs *(character)*",
     "prompt": "MOM, a foam-and-felt Muppet puppet with tight grey curly yarn hair, pink floral housecoat and reading glasses on a beaded chain, sets a covered plate of food down on the top step of a wooden basement staircase, knocks twice on the door frame, hesitates, then retreats out of frame leaving the plate steaming in the doorway light. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 35mm, locked-off low angle from the base of the stairs. Lighting: warm kitchen spill from above, cold magenta from below. Audio: two knocks, a plate clink, retreating footsteps. No readable text, stable geometry.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvZDAzODZkNzctNTE2NC00Nzk3LTg1M2QtYjdmM2I5ZGRiOWI1L2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTM0LCJleHAiOjE3ODUzODg5MzQsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ.dIUI7JexuljnEcsmH5NPTKh-823quaTf9VOWuEnJcnE"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_34",
     "title": "Laundry horror *(character)*",
     "prompt": "MOM, a foam-and-felt Muppet puppet with tight grey curly yarn hair, pink floral housecoat and reading glasses on a beaded chain, stands beside an overflowing laundry basket holding up a stiff unidentifiable garment with a pair of kitchen tongs at arm's length, head turned away, one eye squinted shut. Cluttered wood-paneled basement, exposed pipes, single bare bulb. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 50mm, slow push-in to medium. Lighting: hard overhead bulb, deep shadow. Audio: fabric crackle, one small retch. No readable text, stable hands.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvZDAzODZkNzctNTE2NC00Nzk3LTg1M2QtYjdmM2I5ZGRiOWI1L2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTM0LCJleHAiOjE3ODUzODg5MzQsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ.dIUI7JexuljnEcsmH5NPTKh-823quaTf9VOWuEnJcnE"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_35",
@@ -329,19 +231,13 @@
     "id": "shot_37",
     "title": "Slow rotation *(character)*",
     "prompt": "The GOON, a foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top, plaid pajama pants and a cracked black headset, slumps back in a torn office chair and rotates slowly through a full turn, head tipped back, staring blankly up at the exposed ceiling pipes the entire time. Cluttered wood-paneled basement, magenta and cyan LED strips. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 28mm, locked-off low angle looking up. Lighting: cold overhead pipes-and-shadow pattern, magenta bounce. Audio: a long chair-bearing creak, deep room tone. No readable text, stable proportions.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_38",
     "title": "Silent trash talk *(character)*",
     "prompt": "The GOON, a foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top and a cracked black headset, leans into a desk microphone mouthing rapid animated trash talk with exaggerated jaw movement and jabbing finger gestures, veins of red light flickering across his face. Cluttered wood-paneled basement, exposed pipes, magenta and cyan LED strips. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 65mm, locked-off close-up, slightly low. Lighting: hard red uplight from the desk, cyan rim. Audio: room tone only, no voice. No readable text, stable jaw, no morphing face.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_39",
@@ -371,10 +267,7 @@
     "id": "shot_43",
     "title": "Raise and slump *(character)*",
     "prompt": "The GOON, a foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top and a cracked black headset, throws both arms overhead in silhouetted triumph, holds for one beat, then collapses forward slowly until his forehead rests on the desk. Cluttered wood-paneled basement, exposed pipes, magenta and cyan LED strips. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 40mm, locked-off medium, backlit silhouette. Lighting: hard cyan backlight, magenta floor bounce, subject in near-silhouette. Audio: a short cheer collapsing into a groan. No readable text, stable proportions.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg"
-    ]
+    "duration": 5
   },
   {
     "id": "shot_44",
@@ -404,9 +297,6 @@
     "id": "shot_48",
     "title": "Dawn *(character \u2014 closer)*",
     "prompt": "The GOON, a foam-and-felt Muppet puppet with matted moss-green fur, huge bloodshot ping-pong-ball eyes, greasy orange yarn cowlick, patchy neckbeard, stained white tank top, plaid pajama pants and a cracked black headset, sleeps slumped sideways in a torn office chair as magenta and cyan LED strips continue cycling and a thin band of pale dawn light creeps across the floor toward him from a grimy ground-level window. Cluttered wood-paneled basement, exposed pipes, crushed energy drink cans. Practical puppetry on a physical set, visible fabric weave and stitching, 35mm film grain. Camera: 35mm, extremely slow dolly in. Lighting: RGB cycle fighting cold blue dawn, dawn winning. Audio: slow breathing, birdsong rising, electrical hum. No readable text, stable proportions.",
-    "duration": 5,
-    "references": [
-      "runway://eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIyOTIyMDU4LCJ1cGxvYWRCdWNrZXQiOiJydW53YXktdXBsb2Fkcy1wcm9kIiwidXBsb2FkS2V5IjoiZXBoZW1lcmFsLXVwbG9hZHMvMjI5MjIwNTgvNGU1ZGUyNmEtN2JmZi00MWY5LWEyMDYtMWQ2NzI0NjRkMGYyL2ZpbGUucG5nIiwidHlwZSI6ImVwaGVtZXJhbCIsImNvbnRlbnRUeXBlIjoiaW1hZ2UvcG5nIiwiaWF0IjoxNzg1MzAyNTMyLCJleHAiOjE3ODUzODg5MzIsImlzcyI6Imh0dHBzOi8vYXBpLmRldi5ydW53YXltbC5jb20ifQ._fHFjf0Fj9PnZr8sjDgIeHnR285YA0TABIx8ELlNVFg"
-    ]
+    "duration": 5
   }
 ]
